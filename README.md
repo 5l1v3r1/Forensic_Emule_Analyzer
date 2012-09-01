@@ -1,13 +1,13 @@
-Forensic_Emule_Analyzer
+Forensic Emule Analyzer
 =======================
-
-A Forensic tool for analyzing known.met files and carve known.met entries from unallocated space of expert witness images (*.e01 - eg Encase) which are mounted with FTK Imager V3.0 and later.
 
 Emule Analyzer parses unallocated clusters of EnCase Image Files (*.e01) mounted with Access Data`s FTK Imager for deleted known.met records.\n\n\
 Mount evidence in FTK Imager as
 
 MountType: Physical & Logical 
+
 Mount Method: File System / Read Only (IMPORTANT or FEA will not work!)
+
 Drive Letter: This will be the volume for which EmuleAnalyzer will ask
 
 EmuleAnalyzer searches and parses active know.met files recursively too.
