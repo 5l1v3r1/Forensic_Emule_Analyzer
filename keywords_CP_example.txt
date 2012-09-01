@@ -1,0 +1,41 @@
+#####################################################################
+#  -This is the file with the keywords                              #
+#  -Each keyword has to be in a separate line followed by a Return  #
+#  -Save keyword with the file extension *.txt					    #
+#  -Comments start with a "#"                                       #
+#  -Keywords are not case sensitive                                 #
+#  -No empty lines !                                                #
+#  -Don`t forget to press Return after the last keyword !           #
+#  -Keywords are looked up as parts of a string, eg. 1yo will find  #
+#   11yo and 111yo, loli will find lolita and so on                 #
+#####################################################################
+1yo
+2yo
+3yo
+4yo
+5yo
+6yo
+7yo
+9yo
+10yo
+pthc
+ptsc
+kingpass
+hussyfan
+babyshivid
+kinderkutje
+preteen
+liluplanet
+loli
+lola
+raygold
+r@ygold
+childlover
+underage
+kinderficker
+kidsex
+hotlol
+kleuterkutje
+##############################################################
+# End of File                                                #
+##############################################################
