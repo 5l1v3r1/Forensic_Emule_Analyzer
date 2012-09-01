@@ -17,7 +17,7 @@ except AttributeError:
 
 # Init
 
-programmversion = "0.8"
+programmversion = "1.0"
 maxblocksize = 1024 # Delimit block after x bytes, if there cant be found another filename header. 
 
 #Magic Bytes
@@ -135,7 +135,7 @@ class MainDialog(QtGui.QDialog, Ui_Dialog):
         QtCore.QCoreApplication.instance().processEvents()
         
     def showhelp(self):
-        QtGui.QMessageBox.information(self,"Help","Forensic Emule Analyzer Version " + programmversion + ".\n\nWritten by Hex, Bugs and Rock`n Roll. \nHOSTING HIER\n\n\
+        QtGui.QMessageBox.information(self,"Help","Forensic Emule Analyzer Version " + programmversion + ".\n\nWritten by Hex, Bugs and Rock`n Roll. \nhttps://github.com/HexBugsAndRocknRoll/Forensic_Emule_Analyzer\n\n\
 Emule Analyzer parses unallocated clusters of EnCase Image Files (*.e01) mounted with Access Data`s FTK Imager for deleted known.met records.\n\n\
 Mount evidence in FTK Imager as \n\n\
 MountType: Physical & Logical\nMount Method: File System / Read Only (IMPORTANT or FEA will not work!).\n\
@@ -144,7 +144,7 @@ EmuleAnalyzer searches and parses active know.met files recursively too.\n\n\
 Results can be searched for keywords (eg. child porn codewords). Check the included keywords file for instructions how to make keyword files.\n\n\
 All results are written to TAB separated files. \n\nFTK Imager 3.0 or newer required. It is free (as in beer) an can be found at http://accessdata.com/.\n\n\
 Regards to Access Data for making this great tool available for free!\n\n\
-Double-check the results!") #TODO: Enter Hosting!
+Double-check the results!")
         
     def setprogressbarvalue(self, progressvalue):
         self.progressbar.setProperty("value", progressvalue)
