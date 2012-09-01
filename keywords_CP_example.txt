@@ -1,7 +1,7 @@
 #####################################################################
 #  -This is the file with the keywords                              #
 #  -Each keyword has to be in a separate line followed by a Return  #
-#  -Save keyword with the file extension *.txt					            #
+#  -Save keyword with the file extension *.txt					    #
 #  -Comments start with a "#"                                       #
 #  -Keywords are not case sensitive                                 #
 #  -No empty lines !                                                #
