@@ -21,3 +21,5 @@ FTK Imager 3.0 or newer required. It is free (as in beer) an can be found at htt
 Regards to Access Data for making this great tool available for free!
 
 Double-check the results!
+
+Written in Python 3 using PyQT.
