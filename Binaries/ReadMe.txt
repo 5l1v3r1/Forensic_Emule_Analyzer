@@ -1,1 +1,1 @@
-Unpack the files to a folder of your choice an execute Forensic_Emule_Analyzer.exe
+Save the files to a folder of your choice an execute Forensic_Emule_Analyzer.exe
